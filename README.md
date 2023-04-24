@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
   <div id="badges">
     <a href="your-protonmail-URL">
-      <img src="https://img.shields.io/badge/-taren4ik@protonmail.com-c14438?style=flat&logo=Proton&logoColor=white&link=mailto:taren4ik@protonmail.com"/>
+      <img src="https://img.shields.io/badge/-taren4ik@protonmail.com-c14438?style=flat&logo=Proton&logoColor=brightgreen&link=mailto:taren4ik@protonmail.com"/>
     </a>
     <a href="telegram-URL">
       <img src="https://img.shields.io/badge/-bomarshee-blue?style=social&logo=telegram&link=https://t.me/bomarshee)](https://t.me/bomarshee"/>

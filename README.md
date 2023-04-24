@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/-taren4ik@protonmail.com-c14438?style=flat&logo=Proton&logoColor=brightgreen&link=mailto:taren4ik@protonmail.com"/>
     </a>
     <a href="telegram-URL">
-      <img src="https://img.shields.io/badge/-bomarshee-blue?style=social&logo=telegram&link=https://t.me/bomarshee)](https://t.me/bomarshee"/>
+      <img src="https://img.shields.io/badge/-bomarshee-blue?style=social&logo=telegram&link=https://t.me/bomarshee"/>
     </a>
     <a>
      <img src="https://komarev.com/ghpvc/?username=taren4ik&style=flat-square&color=blue" alt=""/>

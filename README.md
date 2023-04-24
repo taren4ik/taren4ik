@@ -1,16 +1,26 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="your-protonmail-URL">
+      <img src="https://img.shields.io/badge/-taren4ik@protonmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:taren4iky@protonmail.com"/>
+    </a>
+    <a href="telegram-URL">
+      <img src="https://img.shields.io/badge/-bomarshee-blue?style=social&logo=telegram&link=https://t.me/bomarshee)](https://t.me/bomarshee"/>
+    </a>
+    <a>
+     <img src="https://komarev.com/ghpvc/?username=taren4ik&style=flat-square&color=blue" alt=""/>
+    </a>
+  </div>
+</div>
 
-<!--
-**taren4ik/taren4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hey 👋, This is Dmitry
+
+
+- 🐍 I'm Python developer
+- 📖 Learning FastAPI
+- 👀 Interested OSINT
+- 🏀🤿  I love basketball and freediving
+
+

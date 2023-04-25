@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/-bomarshee-blue?style=social&logo=telegram&link=https://t.me/bomarshee"/>
     </a>
     <a>
-     <img src="https://komarev.com/ghpvc/?username=taren4ik&style=flat-square&color=blue" alt=""/>
+     <img src="https://komarev.com/ghpvc/?username=taren4ik&style=flat-square&color=brightgreen" alt=""/>
     </a>
   </div>
 </div>
@@ -18,9 +18,9 @@
 ## Hey 👋, This is Dmitry
 
 
-- 🐍 I'm Python developer
-- 📖 Learning FastAPI
-- 👀 Interested OSINT
+- 🐍 I'm a Python developer 
+- 📖 I'm Learning FastAPI, Celery, RabbitMQ, Redis
+- 👀 I'm interested in OSINT development
 - 🏀🤿  I love basketball and freediving
 
 ## Some of my Github Stats

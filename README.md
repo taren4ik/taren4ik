@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://taren4ik@protonmail.com")">
+    <a href="mailto:taren4ik@protonmail.com")">
       <img src="https://img.shields.io/badge/-taren4ik@protonmail.com-c14438?style=flat&logo=Proton&logoColor=brightgreen&link=mailto:taren4ik@protonmail.com"/>
     </a>
     <a href="https://t.me/bomarshee">

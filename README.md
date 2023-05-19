@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
   <div id="badges">
     
-    <a href="https://codecov.io/github/scrapy/scrapy?branch=master">
-      <img alt="Coverage report" src="https://img.shields.io/codecov/c/github/scrapy/scrapy/master.svg" style="max-width:100%;">
-    </a>
     <a href="taren4ik@protonmail.com">
       <img src="https://img.shields.io/badge/-taren4ik@protonmail.com-c14438?style=flat&logo=Proton&logoColor=brightgreen&link=mailto:taren4ik@protonmail.com"/>
     </a>

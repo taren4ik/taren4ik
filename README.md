@@ -18,8 +18,8 @@
 ## Hey 👋, This is Dmitry
 
 
-- 🐍 I'm a Python developer 
-- 📖 I'm Learning FastAPI, Celery, RabbitMQ, Redis
+- 🐍 I'm a Python developer and Data Enineer
+- 📖 I'm Learning FastAPI, Celery, RabbitMQ, Redis, ClickHouse, DWH, Airflow, NiFi
 - 👀 I'm interested in OSINT development
 - 🏀🤿  I love basketball and freediving
 

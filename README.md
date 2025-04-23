@@ -16,12 +16,26 @@
 
 
 ## Hey 👋, This is Dmitry
-
-
-- 🐍 I'm a Python developer and Data Enineer
-- 📖 I'm Learning FastAPI, Celery, RabbitMQ, Redis, ClickHouse, DWH, Airflow, NiFi
+- 🐍 I'm a  Data Enineer
 - 👀 I'm interested in OSINT development
 - 🏀🤿  I love basketball and freediving
+
+
+# About me
+I work as a data engineer and am constantly interested in new technologies in the field of data.
+In addition, I have several projects dedicated to data processing, which you can find below. I am always open to interesting ideas and suggestions.
+
+## Skills & Technologies
+
+  - ClickHouse
+  - Apache Airflow
+  - Apache Spark
+  - Python
+  - SQL
+  - Kafka
+  - PostgreSQL
+  - Docker
+  - Python
 
 ## Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=taren4ik&show_icons=true&include_all_commits=true)](https://github.com/taren4ik/github-readme-stats)
